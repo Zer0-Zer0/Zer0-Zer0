@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/sayuts">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&bg_color=00000000"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Zer0-Zer0&repo=github-readme-stats&cache_seconds=86400&theme=buefy"/>
 </div>
