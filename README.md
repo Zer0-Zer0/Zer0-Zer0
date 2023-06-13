@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style='display: flex; flex-direction:row;'>
-<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=Zer0-Zer0&show_icons=true&bg_color=00000000">
-<img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&show_icons=true&bg_color=00000000">
+<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=Zer0-Zer0&show_icons=true&bg_color=00000000"/>
+<img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&show_icons=true&bg_color=00000000"/>
 </div>
