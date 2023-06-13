@@ -17,3 +17,9 @@ Here are some ideas to get you started:
     <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&show_icons=true&bg_color=00000000" />
       <img scr="https://github-readme-stats.vercel.app/api/wakatime?username=Zer0-Zer0" />
 </div>
+
+<div>
+<a href="https://github.com/sayuts">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayuts&layout=compact&langs_count=7&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=sayuts&repo=github-readme-stats&cache_seconds=86400&theme=buefy"/>
+</div>
