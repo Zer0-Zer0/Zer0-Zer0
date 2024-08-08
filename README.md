@@ -9,9 +9,7 @@
     <li><strong>Tools:</strong> Git, VSCode, Unity Engine, Godot Engine, Blender, Arduino</li>
 </ul>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Zer0-Zer0&show_icons=true" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&show_icons=true&bg_color=00000000" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zer0-Zer0" />
 </div>
 
 <h2>🌱 Currently Learning</h2>
