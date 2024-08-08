@@ -4,17 +4,16 @@
 <h2>🔧 Technologies & Tools</h2>
 <ul>
     <li><strong>Languages:</strong> C#, C++, GDscript, Python, PHP</li>
-    <li><strong>Frameworks:</strong> None</li>
     <li><strong>Databases:</strong> MySQL</li>
     <li><strong>Tools:</strong> Git, VSCode, Unity Engine, Godot Engine, Blender, Arduino</li>
 </ul>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&show_icons=true&bg_color=00000000" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0-Zer0&layout=donut-vertical&show_icons=true" /><br>
 </div>
 
 <h2>🌱 Currently Learning</h2>
 <ul>
-<li>Currently learning networking for games.</li>
+<li>Networking for games.</li>
 </ul>
 
 <h2>💼 Projects</h2>
